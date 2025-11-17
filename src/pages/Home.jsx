@@ -40,7 +40,7 @@ export default function Home(){
 
       <section className="py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-10 items-center">
-          <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1400&auto=format&fit=crop" alt="hands holding a plant-growing kit box with pots and soil" className="rounded-3xl shadow-sm" loading="eager"/>
+          <img src="https://images.unsplash.com/photo-1721305254301-bc22475ccf14?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGhvbGRpbmclMjBhJTIwcGxhbnQtZ3Jvd2luZ3xlbnwwfDB8fHwxNzYzNDIyNTUyfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="hands holding a plant-growing kit box with pots and soil" className="rounded-3xl shadow-sm" loading="eager"/>
           <div>
             <h2 className="text-3xl font-semibold text-emerald-900">Happiness, grown gently</h2>
             <p className="mt-3 text-slate-600">Cutty combines a DIY Dahlia growing kit with a warm, positive community. Grow at your own pace, share little wins, and discover science-backed ways to feel better.</p>
