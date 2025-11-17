@@ -1,19 +1,23 @@
 export default function HowItWorks(){
+  const CUTTY_BOX_IMG = 'https://cdn.discordapp.com/attachments/692077531272052768/1440123736064917534/image0.jpg?ex=691d033e&is=691bb1be&hm=aab8d25f1609bb5aafae87cf0d0ab5f4e9fdfa113989b6cfd786be0c943eff79&'
+  const GROWING_PLANT_IMG = 'https://images.unsplash.com/photo-1524594227082-cd1f9f3580f4?q=80&w=1400&auto=format&fit=crop'
+  const SHARE_IMG = 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1400&auto=format&fit=crop'
+
   const steps = [
     {
       title: 'Get your Cutty Box',
       text: 'DIY plant kit with dahlia cutting, soil, pot, fertilizer, and mini greenhouse.',
-      img: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1400&auto=format&fit=crop'
+      img: CUTTY_BOX_IMG
     },
     {
       title: 'Grow at your own pace',
       text: 'Easy, guided growth with reminders and simple instructions.',
-      img: 'https://images.unsplash.com/photo-1524594227082-cd1f9f3580f4?q=80&w=1400&auto=format&fit=crop'
+      img: GROWING_PLANT_IMG
     },
     {
       title: 'Share your journey',
       text: 'Post photos, celebrate milestones, and connect with others.',
-      img: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1400&auto=format&fit=crop'
+      img: SHARE_IMG
     }
   ]
   return (

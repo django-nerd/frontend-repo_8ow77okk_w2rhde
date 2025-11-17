@@ -15,8 +15,8 @@ export default function Learn(){
     {
       title:'Mindful Gardening',
       text:'Simple, sensory practices to slow down and breathe again.',
-      img:'https://images.unsplash.com/photo-1524594227082-cd1f9f3580f4?q=80&w=1400&auto=format&fit=crop',
-      alt:'Hands watering a potted plant at home'
+      img:'https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?q=80&w=1400&auto=format&fit=crop',
+      alt:'Hands practicing mindful gardening outdoors with soil and tools'
     }
   ]
   return (
